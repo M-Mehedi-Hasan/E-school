@@ -1,0 +1,183 @@
+
+.Logo{
+    width: 200px;
+    height: auto;
+    margin-left: 130px;
+}
+
+nav{
+
+    background: rgb(201, 224, 210);
+}
+
+
+.main-btn{
+	background-color:#44c767;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:7px 15px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+    margin: 10px;
+    margin-right: 50px;
+}
+.main-btn:hover {
+	background-color:#5cbf2a;
+}
+.main-btn:active {
+	position:relative;
+	top:1px;
+}
+/************HOME************************/
+#home-section{
+    background: rgb(201, 224, 210);
+    
+}
+
+.text-p1{
+   color: rgb(212, 143, 15); 
+}
+
+.home-h2{
+    font-size: 44px;
+    font-weight:900;
+}
+
+.home-h2 span{
+    color: #44c767 ;
+}
+
+.text-2{
+color: rgb(71, 77, 73);
+margin-top: 20px;
+}
+/************** half-mid ********/
+.half-mid{
+    text-align: center;
+}
+.half-mid img{
+    width: 100px;
+    margin: 0 auto;
+}
+
+.card-title{
+    margin: 0px;
+}
+
+.card-text{
+    margin: 0px;
+}
+
+
+.half-mid h5{
+    margin: 0px;
+    margin-top:20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.half-mid p{
+    margin: 0px;
+    margin-top: 5px;
+}
+.half-mid img{
+    margin-top: 30px;
+}
+.half-col{
+    background: rgb(247, 253, 249);
+    
+}
+
+.half-box-shadow{
+    box-shadow: 10px 10px 10px 10px;
+}
+
+/* ************OUR COURSE ************/
+
+.Img-icon{
+    width: 20px;
+}
+
+
+
+.our-couse h1{ 
+text-align: center;
+margin-top: 100px;
+margin-bottom: 80px;
+}
+
+.our-couse h5{
+    margin-top: 20px;
+    color: rgb(71, 77, 73);
+
+}
+
+.our-couse a{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+    margin-top: 0px;
+    margin-top: 10px;
+
+}
+
+
+.card{
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.left-pep{
+    margin-left: 40px;
+}
+
+.footer{
+    margin-top: 30px;
+}
+
+
+/*Footer Top*/
+
+.fotter-top{
+    margin-top: 100px;
+}
+
+.fotter-top h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+
+}
+
+
+.fot-img{
+    float:right;
+    width: 100px;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+
+.top-fott{
+    margin-top: 100px;
+}
+
+
+/*************FOTTER*******/
+
+footer{
+    margin-top: 100px;
+    background: rgb(53, 36, 65);
+    color: white;
+    padding: 50px;
+}
+.footer-left{
+    text-align: center;
+    margin-top: 40px;
+}
+.bottam-fot{
+    text-align: center;
+    margin-top: 50px;
+}
